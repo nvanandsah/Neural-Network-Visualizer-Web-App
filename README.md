@@ -1,5 +1,5 @@
 # Neural-Network-Visualizer-Web-App
-Web based visualization of neural network prediction using keras and streamlit. Developed while taking [coursera](https://www.coursera.org/learn/neural-network-visualizer/home/welcome) course on the same topic 
+Web based visualization of neural network prediction using keras and streamlit. 
 
 ![Working screen](Docs/example.png "Working demo")
 ## Initial setup
